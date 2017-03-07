@@ -9,7 +9,10 @@
 4.	学习Markdown
 5.	利用Hexo生成博客并部署到Github
 ## 三、实验步骤与结果
-1.注册账号：Careyjia
+1. 注册账号：Careyjia
+2. 创建repository
+3. 发布第一篇博客
+![引用别人的博客]（）
 ## 四、实验小结
 
 作业报告
